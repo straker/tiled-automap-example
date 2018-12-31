@@ -10,7 +10,7 @@
  </layer>
  <layer id="7" name="input_Ground" width="5" height="5">
   <properties>
-   <property name="StrictEmpty" value="true"/>
+   <property name="StrictEmpty" type="bool" value="true"/>
   </properties>
   <data encoding="base64">
    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
